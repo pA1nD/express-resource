@@ -13,7 +13,7 @@
   "dependencies": {
     "lingo": ">= 0.0.4",
     "methods": "0.0.1",
-    "debug": "*"
+    "debug": "^2.8.6"
   },
   "devDependencies": {
     "connect": "2.x",
